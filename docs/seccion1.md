@@ -13,6 +13,6 @@ Lista no ordenada:
 - Tercer punto
 - Cuarto punto
 
-![](https://deblinux.files.wordpress.com/2012/02/linux-kernel-3-2-5.png)
+![](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2016/02/linux-security.jpg)
 
 
